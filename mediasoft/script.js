@@ -88,7 +88,7 @@ function romamToNumber(roman) {
 }
 
 
-// fizzbuzz()
-console.log(sortArrByArr([1, 4, 6], [33, 11, 22]))
-// console.log(matchLetters(["bella","label","roller"]))
-// console.log(romamToNumber('MCDXLIX'))
+fizzbuzz()
+console.log(sortArrByArr([1, 4, 6], [11, 33, 22]))
+console.log(matchLetters(["bella","label","roller"]))
+console.log(romamToNumber('MCDXLIX'))
